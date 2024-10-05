@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clothing", "Clothing\Clothing.csproj", "{455BF8FF-8C4C-4CEF-9A78-C4A8352FAE67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delivery", "Delivery\Delivery.csproj", "{381C34CB-9BCA-4802-9AB6-54ED52988A5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455BF8FF-8C4C-4CEF-9A78-C4A8352FAE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455BF8FF-8C4C-4CEF-9A78-C4A8352FAE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455BF8FF-8C4C-4CEF-9A78-C4A8352FAE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455BF8FF-8C4C-4CEF-9A78-C4A8352FAE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381C34CB-9BCA-4802-9AB6-54ED52988A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381C34CB-9BCA-4802-9AB6-54ED52988A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381C34CB-9BCA-4802-9AB6-54ED52988A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381C34CB-9BCA-4802-9AB6-54ED52988A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FFBB404-0A3B-4577-B63C-4892752EE09C}
+	EndGlobalSection
+EndGlobal
